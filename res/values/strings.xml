@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jagdeep</string>
+    <string name="studentDetail">Jagdeep Matharu - 300710666</string>
+    <string name="action_settings">Settings</string>
+    <string name="download_activity">Download Activity</string>
+    <string name="video_activity">Video Activity</string>
+    <string name="sms_activity">SMS Activity</string>
+    <string name="gallary_activity">Gallery Activity</string>
+    <string name="backButton">Back</string>
+    <string name="enter_ph">Enter Phone Number</string>
+    <string name="enter_msg">Enter Message</string>
+    <string name="send_msg">Send</string>
+    <string name="error1_msg">Please Enter Some Message</string>
+    <string name="error2_msg">Please Enter Phone Number</string>
+    <string name="error3_msg">Both Phone Number and Message fields are empty</string>
+    <string name="notiication1">SMS sent</string>
+    <string name="notiication2">Generic failure</string>
+    <string name="notiication3">No service</string>
+    <string name="notiication4">Null PDU</string>
+    <string name="notiication5">Radio off</string>
+    <string name="diliverd">SMS delivered</string>
+    <string name="notdiliverd">SMS not delivered</string>
+    <string name="file1Element1">Mercury</string>
+    <string name="file1Element2">Venus</string>
+    <string name="file1Element3">Earth</string>
+    <string name="file1Element4">Mars</string>
+    <string name="file1Element5">Jupiter</string>
+    <string name="file1Element6">Saturn</string>
+    <string name="file2Element1">Tiger</string>
+    <string name="file2Element2">Lion</string>
+    <string name="file2Element3">Cat</string>
+    <string name="file2Element4">Snake</string>
+    <string name="file2Element5">Rabbit</string>
+    <string name="file2Element6">Horse</string>
+    <string name="txtToggle">Display Images</string>
+    <string name="bPause">Pause</string>
+    <string name="bPlay">Play</string>
+    <string name="txtVideoFile">No file selected to play</string>
+    <string name="exit">Exit</string>
+    <string name="notification">Are you sure you want to exit?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="twoFiles">Jagdeep Matharu - 2 File</string>
+    <string name="error">Some Error occurred</string>
+    <string name="selectOne">Select One</string>
+    <string name="dialogMessage">Please select one option to proceed further!</string>
+
+</resources>
